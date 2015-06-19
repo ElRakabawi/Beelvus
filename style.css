@@ -1,0 +1,21 @@
+.nav {
+background: #1aba9a;
+padding: 10px;
+font-weight: 400;
+margin: 10px;
+font-size: 17px;
+font-family: "Ubuntu";
+border-bottom: 3px solid #15947a;
+display: block;
+color: #F5F5F5;
+margin-left: auto;
+margin-right: auto;
+border-top: 0px;
+border-left: 0px;
+width: 200px;
+height: 50px;
+border-right: 0;
+}
+a {
+	text-decoration: none;
+}
